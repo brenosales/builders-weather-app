@@ -20,6 +20,8 @@
 
 🌦 Builders Weather App - Aplicativo de previsão do tempo desenvolvido para processo seletivo da Builders.
 
+A aplicação foi feita utilizando a [API OpenWeather](https://openweathermap.org/) como fonte de dados.
+
 ---
 
 ## ⚙️ Funcionalidades
