@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    🌦 Builders Weather App
+    🌦 Weather App
 </h1>
 
 
@@ -18,7 +18,7 @@
 
 ## 💻 Sobre o projeto
 
-🌦 Builders Weather App - Aplicativo de previsão do tempo desenvolvido para processo seletivo da Builders.
+🌦 Weather App - Aplicativo de previsão do tempo.
 
 A aplicação foi feita utilizando a [API OpenWeather](https://openweathermap.org/) como fonte de dados.
 
